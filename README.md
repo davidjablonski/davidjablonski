@@ -2,11 +2,9 @@
 
 I’m David, I design and develop digital products that make a difference.
 
-#### What I’m currently working on
-- 💉 [Official COVID-19 vaccination dashboard](https://info.gesundheitsministerium.gv.at) w/ Austrian ministry of health
-- ✊ [fridaysforfuture.at](https://fridaysforfuture.at), digital tools for youth climate activism
-- 📊 [klimadashboard.at](https://klimadashboard.at), visualising data on the climate crisis
-- 📰 [diepresse.com](https://diepresse.com), high-quality news, the digital way
+#### Some of my current projects
+- 📊 [klimadashboard.at](https://klimadashboard.at) and [klimadashboard.de](https://klimadashboard.de), visualising data on the climate crisis in Austria and Germany
+- ✈️ [Private Jet Tracker](https://jet-tracker.vercel.app), tracking Austrian private jets for Greenpeace
 - ... and more
 
 [Get in touch](mailto:office@davidjablonski.at) to discuss your project today.
